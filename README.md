@@ -4,10 +4,10 @@ This project contains exploratory data analysis (EDA) of sales data from the Sup
 
 ## 📁 Project Structure
 
-dataset/ - Contains raw dataset (Superstore.csv)
-notebook/ - Jupyter Notebook with complete analysis
-images/ - Visualizations or graphs (optional)
-requirements.txt - List of required libraries
+- dataset/ - Contains raw dataset (Superstore.csv)
+- notebook/ - Jupyter Notebook with complete analysis
+- images/ - Visualizations or graphs (optional)
+- requirements.txt - List of required libraries
 
 
 ## 🧰 Tools & Libraries
@@ -28,7 +28,7 @@ requirements.txt - List of required libraries
 ## 📊 Sample Visualization
 
 **Total Sales by Product Category**  
-Sales_by_Category.png  
+![Sales by Category](images/sales_by_category.png)  
 
 ## 💡 Key Insights
 
