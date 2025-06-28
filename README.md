@@ -6,10 +6,10 @@ Proyek ini berisi eksplorasi dan analisis data penjualan dari dataset Superstore
 
 ## 📁 Struktur Project
 
-dataset/ - Berisi dataset mentah (Superstore.csv)
-notebook/ - Notebook Jupyter berisi analisis lengkap
-images/ - Visualisasi atau hasil grafik (optional)
-requirements.txt - Daftar library yang digunakan
+- dataset/ - Berisi dataset mentah (Superstore.csv)
+- notebook/ - Notebook Jupyter berisi analisis lengkap
+- images/ - Visualisasi atau hasil grafik (optional)
+- requirements.txt - Daftar library yang digunakan
 
 
 ---
