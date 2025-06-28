@@ -1,65 +1,49 @@
 # 📊 Superstore Sales Analysis
 
-Proyek ini berisi eksplorasi dan analisis data penjualan dari dataset Superstore. Analisis dilakukan menggunakan Python, dengan fokus untuk menemukan insight bisnis terkait produk, wilayah, tren penjualan, dan faktor-faktor yang memengaruhi profitabilitas.
+This project contains exploratory data analysis (EDA) of sales data from the Superstore dataset. The analysis is conducted using Python, focusing on discovering business insights related to products, regions, sales trends, and factors affecting profitability.
 
----
+## 📁 Project Structure
 
-## 📁 Struktur Project
-
-- dataset/ - Berisi dataset mentah (Superstore.csv)
-- notebook/ - Notebook Jupyter berisi analisis lengkap
-- images/ - Visualisasi atau hasil grafik (optional)
-- requirements.txt - Daftar library yang digunakan
+dataset/ - Contains raw dataset (Superstore.csv)
+notebook/ - Jupyter Notebook with complete analysis
+images/ - Visualizations or graphs (optional)
+requirements.txt - List of required libraries
 
 
----
+## 🧰 Tools & Libraries
 
-## 🧰 Tools & Library
+- Python  
+- pandas  
+- matplotlib  
+- seaborn  
+- Jupyter Notebook  
 
-- Python
-- pandas
-- matplotlib
-- seaborn
-- Jupyter Notebook
+## 🎯 Analysis Objectives
 
----
+- Identify best-selling products and categories  
+- Analyze profitability by region  
+- Detect sales trends over time  
+- Evaluate the impact of discounts on profit  
 
-## 🎯 Tujuan Analisis
+## 📊 Sample Visualization
 
-✔️ Mengidentifikasi produk dan kategori paling laku  
-✔️ Menganalisis profitabilitas berdasarkan wilayah  
-✔️ Mendeteksi tren penjualan berdasarkan waktu  
-✔️ Mengevaluasi dampak diskon terhadap profit  
+**Total Sales by Product Category**  
+Sales_by_Category.png  
 
----
+## 💡 Key Insights
 
-## 📊 Contoh Visualisasi
-
-**Total Penjualan per Kategori Produk**
-
-![Sales by Category](images/sales_by_category.png)
-
----
-
-## 💡 Insight Utama
-
-- Produk **Technology** menjadi kontributor utama penjualan.
-- Region **West** menghasilkan profit tertinggi.
-- Pemberian diskon besar perlu dievaluasi karena berpotensi mengurangi profit.
-- Terdapat pola musiman dalam tren penjualan.
-
----
+- Technology products are the main contributor to total sales  
+- The West region generates the highest profit  
+- Large discounts need to be evaluated as they may reduce profitability  
+- Seasonal patterns are observed in sales trends  
 
 ## 📦 Dataset
 
-Dataset berasal dari [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+The dataset is sourced from [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets)  
 
----
+## 🛠️ How to Run
 
-## 🛠️ Cara Menjalankan
-
-1. Clone repository ini
-2. Install dependensi:
-    pip install -r requirements.txt
-3. Buka Notebook di Jupyter:
-4. Jalankan sel-sel di notebook.
+1. Clone this repository  
+2. Install dependencies:  pip install -r requirements.txt
+3. Open the Notebook in Jupyter  
+4. Run the notebook cells step by step  
